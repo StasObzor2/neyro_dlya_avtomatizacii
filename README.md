@@ -1,1 +1,0 @@
-# neyro_dlya_avtomatizacii
